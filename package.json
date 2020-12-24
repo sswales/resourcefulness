@@ -5,6 +5,9 @@
   "main": "src/index.js",
   "author": "Shaun Swales <info@swalesconsultancy.co.uk>",
   "license": "MIT",
+  "scripts": {
+    "publish": "npm publish --access=public"
+  },
   "keywords": [
     "resourcefulness",
     "test",
