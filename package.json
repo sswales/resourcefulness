@@ -1,0 +1,14 @@
+{
+  "name": "vigour",
+  "version": "0.0.1",
+  "description": "A suite of utils to assist test engineers.",
+  "main": "src/index.js",
+  "author": "Shaun Swales <info@swalesconsultancy.co.uk>",
+  "license": "MIT",
+  "keywords": [
+    "vigour",
+    "test",
+    "util",
+    "testdata"
+  ]
+}
