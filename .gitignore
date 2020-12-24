@@ -1,0 +1,7 @@
+.DS_STORE
+node_modules
+_SpecRunner.html
+__benchmarks__
+*.log*
+.vscode
+build/
